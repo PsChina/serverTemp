@@ -1,1 +1,1 @@
-consle.log('Linux server test.');
+console.log('Linux server test.');

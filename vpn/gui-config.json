@@ -1,7 +1,7 @@
 {
   "configs": [
     {
-      "server": "172.96.207.38",
+      "server": "jocelen.ml",
       "server_port": 2333,
       "password": "123456",
       "method": "aes-256-cfb",
